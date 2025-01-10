@@ -1,0 +1,186 @@
+
+.header
+{
+    width:900px;
+    height:90px;
+    margin:0 auto;
+    background-color:pink;
+   
+}
+.left
+{
+    width:728px;
+    height:90px;
+    float:left;
+    margin-left:85px;
+}
+.right
+{
+    width:172px;
+    height:90px;
+    float:right;
+
+}
+.supcontent
+{
+    Width:900px;
+    height:40px;
+    background-color:pink;
+    margin:0 auto;
+}
+.maincontent
+{
+    width:900px;
+    height:600px;
+    margin:0 auto;
+    background-color:pink;
+}
+.maincontentleft
+{
+    Width:450px;
+    height:600px;
+    float:left;
+    background-color:pink;
+}
+.maincontentleftimage
+{
+    width:225px;
+    height:250px;
+    margin-top:50px;
+    margin-left:100px;
+}
+.maincontentleftprice
+{
+    width:325px;
+    height:150px;
+    background-color:aqua;
+    border-color:Black;
+    border:2px;
+    margin-left:55px;
+    margin-top:10px;
+    color:black;
+}
+.maincontentleftbuy
+{
+    width:100px;
+    height:40px;
+ 
+    margin-left:100px;
+}
+.maincontentright
+{
+    width:450px;
+    height:600px;
+    float:right;
+    background-color:pink;
+}
+.maincontentrightimage
+{
+    width:225px;
+    height:250px;
+    margin-top:50px;
+    margin-left:100px;
+}
+.maincontentrightprice
+{
+    width:325px;
+    height:150px;
+    background-color:aqua;
+    border:2px;
+    border-color:Black;
+    margin-top:20px;
+    margin-left:55px;
+    color:black;
+}
+.maincontentrightbuy
+{
+    width:100px;
+    height:40px;
+    
+    margin-left:100px;
+}
+.banner{
+    width:900px;
+    height:90px;
+    background-color:pink;
+    margin:0 auto;
+}
+.banner ul
+{
+	list-style:none;
+	display:inline-block;
+    margin-left:10px;
+}
+.banner ul li
+{
+	display:inline-block;
+	color:white;
+	padding:15px 100px 13px 20px;
+	border-right:solid 2px;
+	background:#6C5152;
+	border:solid 2px;
+}
+
+.banner ul li a
+{
+	text-decoration:none;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+.banner ul li a:hover
+{
+	font-weight:bold;
+	color:#FF0004;
+	
+}
+.footer
+{
+    width:900px;
+    height:90px;
+    background-color:black;
+    margin:0 auto;
+    border-bottom-right-radius:35px;
+	border-bottom-left-radius:35px;
+}
+.maincontentrightbuy H1 ul li
+{
+    display:inline-block;
+	color:white;
+	
+	
+	background:red;
+    margin-right:25px;
+}
+.maincontentrightbuy H1  ul li a
+{
+	text-decoration:none;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+.maincontentrightbuy H1 a:hover
+{
+	font-weight:bold;
+	color:Blue;
+	
+}
+.maincontentleftbuy H1 ul li
+{
+    display:inline-block;
+	color:white;
+	
+	
+	background:red;
+    margin-right:25px;
+}
+.maincontentleftbuy H1  ul li a
+{
+	text-decoration:none;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+.maincontentleftbuy H1 a:hover
+{
+	font-weight:bold;
+	color:Blue;
+	
+}
